@@ -115,7 +115,7 @@ public class TestsOrangeHRM extends Configuration{
         jtCollection.first().$(By.name("chkSelectRow[]")).click();
     }
     @Test
-    @Order(7)
+    @Order(9)
     public void addCandidateTest() throws IOException {
         LoginPage loginPage = new LoginPage();
         MainPage mainPage = new MainPage();
@@ -127,7 +127,7 @@ public class TestsOrangeHRM extends Configuration{
         recruitmentPage.addCandidate();
     }
     @Test
-    @Order(8)
+    @Order(10)
     public void assignLeaveTest() throws IOException {
         LoginPage loginPage = new LoginPage();
         MainPage mainPage = new MainPage();
@@ -139,7 +139,7 @@ public class TestsOrangeHRM extends Configuration{
         leaveAssignPage.leaveAssign();
     }
     @Test
-    @Order(9)
+    @Order(11)
     public void dashboardTest() throws IOException {
         LoginPage loginPage = new LoginPage();
         MainPage mainPage = new MainPage();
@@ -151,7 +151,7 @@ public class TestsOrangeHRM extends Configuration{
         dashboard.checkElementsOnPage();
     }
     @Test
-    @Order(10)
+    @Order(12)
     public void PIMTest() throws IOException {
         LoginPage loginPage = new LoginPage();
         MainPage mainPage = new MainPage();
@@ -162,7 +162,7 @@ public class TestsOrangeHRM extends Configuration{
         pimPage.checkSalesOptionForm();
     }
     @Test
-    @Order(11)
+    @Order(13)
     public void logoutTest() throws IOException {
         LoginPage loginPage = new LoginPage();
         MainPage mainPage = new MainPage();
