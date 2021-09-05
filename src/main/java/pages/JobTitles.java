@@ -31,7 +31,7 @@ public class JobTitles extends MainPage{
         addJobTitleBtn.click();
         addJobTitleField.sendKeys(JobTitle1);
         addJobTitleDescriptionField.sendKeys("Test descr");
-        addJobTitleFile.uploadFile(new File("src/main/resources/testFile.txt"));
+       // addJobTitleFile.uploadFile(new File("src/main/resources/testFile.txt"));
         addJobTitleNote.sendKeys("Some note");
         saveBtn.click();
     }
@@ -41,7 +41,7 @@ public class JobTitles extends MainPage{
         addJobTitleBtn.click();
         addJobTitleField.sendKeys(JobTitle2);
         addJobTitleDescriptionField.sendKeys("Test descr");
-        addJobTitleFile.uploadFile(new File("src/main/resources/testFile.txt"));
+    //    addJobTitleFile.uploadFile(new File("src/main/resources/testFile.txt"));
         addJobTitleNote.sendKeys("Some note");
         saveBtn.click();
     }
@@ -51,7 +51,7 @@ public class JobTitles extends MainPage{
         addJobTitleBtn.click();
         addJobTitleField.sendKeys(JobTitle3);
         addJobTitleDescriptionField.sendKeys("Test descr");
-        addJobTitleFile.uploadFile(new File("src/main/resources/testFile.txt"));
+     //   addJobTitleFile.uploadFile(new File("src/main/resources/testFile.txt"));
         addJobTitleNote.sendKeys("Some note");
         saveBtn.click();
     }

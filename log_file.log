@@ -285,3 +285,38 @@
 2021-09-05 19:20:37 INFO  Log:20 - ------- Started test: logoutTest() -------
 2021-09-05 19:20:45 INFO  Log:20 - --Logging out--
 2021-09-05 19:20:46 INFO  Log:20 - ------- Finished test: logoutTest() -------
+2021-09-05 20:04:02 INFO  Log:20 - ------- Started test: loginTest() -------
+2021-09-05 20:04:02 INFO  Log:20 - --Logging In--
+2021-09-05 20:04:14 INFO  Log:20 - ------- Finished test: loginTest() -------
+2021-09-05 20:04:15 INFO  Log:20 - ------- Started test: addUserTest() -------
+2021-09-05 20:04:15 INFO  Log:20 - --adding new user test--
+2021-09-05 20:04:26 INFO  Log:20 - ------- Finished test: addUserTest() -------
+2021-09-05 20:04:27 INFO  Log:20 - ------- Started test: addJobTitleTest() -------
+2021-09-05 20:04:38 INFO  Log:20 - ------- Finished test: addJobTitleTest() -------
+2021-09-05 20:04:39 INFO  Log:20 - ------- Started test: addSecondJobTitleTest() -------
+2021-09-05 20:04:50 INFO  Log:20 - ------- Finished test: addSecondJobTitleTest() -------
+2021-09-05 20:04:51 INFO  Log:20 - ------- Started test: addThirdJobTitleTest() -------
+2021-09-05 20:05:05 INFO  Log:20 - ------- Finished test: addThirdJobTitleTest() -------
+2021-09-05 20:05:06 INFO  Log:20 - ------- Started test: deleteJobTitleTest() -------
+2021-09-05 20:05:16 INFO  Log:20 - ------- Finished test: deleteJobTitleTest() -------
+2021-09-05 20:05:17 INFO  Log:20 - ------- Started test: deleteSecondJobTitleTest() -------
+2021-09-05 20:05:27 INFO  Log:20 - ------- Finished test: deleteSecondJobTitleTest() -------
+2021-09-05 20:05:28 INFO  Log:20 - ------- Started test: deleteLastTitleTest() -------
+2021-09-05 20:05:38 INFO  Log:20 - ------- Finished test: deleteLastTitleTest() -------
+2021-09-05 20:05:39 INFO  Log:20 - ------- Started test: addCandidateTest() -------
+2021-09-05 20:05:48 INFO  Log:20 - --adding candidate--
+2021-09-05 20:05:50 INFO  Log:20 - ------- Finished test: addCandidateTest() -------
+2021-09-05 20:05:51 INFO  Log:20 - ------- Started test: assignLeaveTest() -------
+2021-09-05 20:06:02 INFO  Log:20 - --checking the form--
+2021-09-05 20:06:04 INFO  Log:20 - ------- Finished test: assignLeaveTest() -------
+2021-09-05 20:06:05 INFO  Log:20 - ------- Started test: dashboardTest() -------
+2021-09-05 20:06:14 INFO  Log:20 - --checking elements of DASHBOARD--
+2021-09-05 20:06:14 INFO  Log:20 - ------- Finished test: dashboardTest() -------
+2021-09-05 20:06:15 INFO  Log:20 - ------- Started test: PIMTest() -------
+2021-09-05 20:06:25 INFO  Log:20 - --checking if table exists--
+2021-09-05 20:06:25 INFO  Log:20 - ------- Finished test: PIMTest() -------
+2021-09-05 20:06:26 INFO  Log:20 - ------- Started test: logoutTest() -------
+2021-09-05 20:06:34 INFO  Log:20 - --Logging out--
+2021-09-05 20:06:35 INFO  Log:20 - ------- Finished test: logoutTest() -------
+2021-09-05 20:21:02 INFO  Log:20 - ------- Started test: addJobTitleTest() -------
+2021-09-05 20:21:19 INFO  Log:20 - ------- Finished test: addJobTitleTest() -------
